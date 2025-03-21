@@ -44,6 +44,8 @@ We experimented with multiple deep learning models for ASD classification:
 - **Sequence modeling significantly improved individual-level classification.**
 - **Increasing the number of images per participant improved prediction confidence.**
 
+Detailed resuts and project report can be found ![here](ENPM703_Report.pdf)
+
 ## Limitations & Future Work
 - **Dataset size**: Expanding beyond 59 participants would enhance generalizability.
 - **Noise in eye-tracking data**: Outliers and inconsistencies can affect predictions.
